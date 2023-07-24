@@ -6,7 +6,7 @@
 
 🎯 Projects:
 
-🏧 ATM Interface Project - Task 3
+1. 🏧 ATM Interface Project - Task 3
 
 📃 (ATM.java)
 
@@ -20,7 +20,7 @@ Features:
 - Deposit funds 💳
 - Easy-to-use interface 🖥️
 
-🎲 Number Guessing Game - Task 2
+2. 🎲 Number Guessing Game - Task 2
 
 📃 (Newone.java)
 
