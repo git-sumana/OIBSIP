@@ -37,4 +37,4 @@ How to Play?
 
 Enjoy the excitement of this simple yet captivating game! 🎉
 
-Oasis Info Byte Summer Internship Project - Sumana Datta
+Oasis Info Byte Summer Internship Project (s) - Sumana Datta
