@@ -36,3 +36,5 @@ How to Play?
 4. Keep guessing until you crack the code! 🏆
 
 Enjoy the excitement of this simple yet captivating game! 🎉
+
+Oasis Info Byte Summer Internship Project - Sumana Datta
